@@ -1,5 +1,6 @@
 <div dir="rtl" align="justify">
-    <b style="font-size:28px;">
+    <b style="font-family:Vazir, font-size:28px;">
+
 
 پروژه پانداز پیشرفته    
 
